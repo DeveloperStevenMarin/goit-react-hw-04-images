@@ -1,5 +1,9 @@
 @import-normalize; /* bring in normalize.css styles */
-
+@import url(./components/ImageGallery/ImageGallery.module.css);
+@import url(./components/SearchBar/SearchBar.module.css);
+@import url(./components/Modal/Modal.module.css);
+@import url(./components/Loader/Loader.module.css);
+@import url(./components/BtnLoadMore/BtnLoadMore.module.css);
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
